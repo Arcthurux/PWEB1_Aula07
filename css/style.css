@@ -1,0 +1,64 @@
+.titulo {
+    color: blue;
+
+}
+
+.imagem1 {
+    margin: auto;
+    display: block;
+
+}
+
+.imagem2 {
+    text-align: center;
+}
+.conteudo1 {
+    font-size: 18px;
+    color: blue;
+    background-color: aqua;
+    border: 10px solid black;
+    margin: 25px 25px 25px 25px;
+    padding: 10px 10px 20px 20px;
+    border-style: dashed;
+    border-radius: 20px;
+}
+
+.conteudo2 {
+    font-size: 20px;
+    color: blue;
+    background-color: aqua;
+    border: 10px solid black;
+    padding-left: 15px;
+    padding-top: 10px;
+    border-width: 10px;
+    border-style: dotted;
+    border-radius: 15px;
+}
+
+
+.conteudo3 {
+    font-size: 25px;
+    color: blue;
+    background-color: aqua;
+    border: 10px solid black;
+    margin-left: 25px;
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-top: 25px;
+    border-width: 5px;
+    border-style: dotted;
+    border-radius: 15px;
+}
+
+.linha {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
